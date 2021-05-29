@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/reactifolio/static/css/main.e37af706.chunk.css",
-    "main.js": "/reactifolio/static/js/main.ad6bc4d5.chunk.js",
-    "main.js.map": "/reactifolio/static/js/main.ad6bc4d5.chunk.js.map",
+    "main.js": "/reactifolio/static/js/main.4077958a.chunk.js",
+    "main.js.map": "/reactifolio/static/js/main.4077958a.chunk.js.map",
     "runtime-main.js": "/reactifolio/static/js/runtime-main.446a4757.js",
     "runtime-main.js.map": "/reactifolio/static/js/runtime-main.446a4757.js.map",
     "static/js/2.1644e2c3.chunk.js": "/reactifolio/static/js/2.1644e2c3.chunk.js",
     "static/js/2.1644e2c3.chunk.js.map": "/reactifolio/static/js/2.1644e2c3.chunk.js.map",
     "index.html": "/reactifolio/index.html",
-    "precache-manifest.cff97581997e70f5cc7e94c107f7208e.js": "/reactifolio/precache-manifest.cff97581997e70f5cc7e94c107f7208e.js",
+    "precache-manifest.1afe2afe03ac43bd70c9b8c683e1ecdd.js": "/reactifolio/precache-manifest.1afe2afe03ac43bd70c9b8c683e1ecdd.js",
     "service-worker.js": "/reactifolio/service-worker.js",
     "static/css/main.e37af706.chunk.css.map": "/reactifolio/static/css/main.e37af706.chunk.css.map",
     "static/js/2.1644e2c3.chunk.js.LICENSE.txt": "/reactifolio/static/js/2.1644e2c3.chunk.js.LICENSE.txt",
@@ -54,6 +54,6 @@
     "static/js/runtime-main.446a4757.js",
     "static/js/2.1644e2c3.chunk.js",
     "static/css/main.e37af706.chunk.css",
-    "static/js/main.ad6bc4d5.chunk.js"
+    "static/js/main.4077958a.chunk.js"
   ]
 }
