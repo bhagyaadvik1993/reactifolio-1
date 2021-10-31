@@ -24,7 +24,7 @@ const About = () => {
                 Hi there! I am <strong>&nbsp;Bhagya Sajeev</strong>
                 <br />A passionate programmer. I am a Full Stack Web Developer with React.js, Redux, Express.js, Node.js, and MongoDB as my tech stack.
                 <br />
-                 Currently I am working on a DevOps Certification program that covering Docker, Ansible, Jenkins, AWS, GCP.
+                 Currently I am working as DevOps and Software Developer with BusyQA.
                 <br />
                 Working with the clients, my goal is always driven towards providing amazing experience with the best level of quality and service to them.
                 <br />
@@ -40,7 +40,7 @@ const About = () => {
                     </a>
                   </div>
                   <div>
-                    <a href="https://drive.google.com/file/d/1_NrLdJ_o6JnufJcK-URducZJJouQmHRl/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+                    <a href="https://drive.google.com/file/d/1m9KxqQ83xhYZKTtIobywTG3wOXe4aMk3/view?usp=sharing" target="_blank" rel="noopener noreferrer">
                       <Button className="m-2" variant="outline-success">
                         My Resume
                       </Button>
