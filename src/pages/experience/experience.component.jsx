@@ -9,6 +9,43 @@ const Experience = () => {
   return (
     <div id="experience">
       <h1 className="pt-3 text-center font-details-b pb-3">EXPERIENCE</h1>
+    <Jumbotron className="jumbo-style">
+        <Container>
+          <Tilt options={{ max: 25 }}>
+            <Card>
+              <Card.Header as="h5" className="d-flex justify-content-center flex-wrap">
+              <strong className="body-title-style ">Giesecke+ Devrient</strong>
+              </Card.Header>
+              <Card.Body className="d-flex justify-content-center flex-column">
+                <div>
+                  <Card.Title className="text-center">Programmer</Card.Title>
+                </div>
+                <div>
+                  <Card.Text className="text-center style">
+                    <strong className="body-title-style ">Application Developer</strong>
+                    <br />
+                    <strong>Technology:</strong>  React.js, Express.js, Node.js, MongoDB, MySQL, TypeScript
+                    <br />
+                    <strong> Description </strong>
+                    <ul className="text-left">
+                      <li><strong>Developed </strong> applictaion using <strong> MERN Stack </strong> </li>
+                      <li><strong>Specialize</strong> in building interactive and dynamic user interfaces using React. I am skilled in creating reusable components, managing state, and handling user interactions.
+                      </li>
+                      <li><strong>On the back-end</strong> , I have a strong command of Node.js, which allows me to develop server-side logic, handle HTTP requests, and build RESTful APIs 
+                      </li>
+                      <li><strong>Tested</strong> application with Jest and React testing library.</li>
+                      {/* <li><strong>Co-created</strong> React Document used as a guide for new developers.</li> */}
+
+                    </ul>
+                    
+                    
+                  </Card.Text>
+                </div>
+              </Card.Body>
+            </Card>
+          </Tilt>
+        </Container>
+      </Jumbotron>
       <Jumbotron className="jumbo-style">
         <Container>
           <Tilt options={{ max: 25 }}>
